@@ -77,4 +77,7 @@ print(historico_pedido)
 print(f'Total a pagar: R${total_pedido:.2f}')
 print('')
 print('Obrigado e volte sempre!')
+
 print('Restaurante Joao Pedro Alves Branco Duarte')
+
+input("Pressione Enter para sair...")
